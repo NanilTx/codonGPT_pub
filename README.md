@@ -1,4 +1,4 @@
-# codonGPT_pub
+# Scalable mRNA sequence design under biological constraints
 
 Code repository and notebooks for paper titled: "Scalable mRNA sequence design under biological constraints"
 
