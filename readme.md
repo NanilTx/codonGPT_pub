@@ -8,7 +8,9 @@ The model architecture was based on a GPT-2-like decoder-only transformer. It wa
 
 This pretraining phase resulted in a codonGPT capable of capturing long-range dependencies and codon co-occurrence patterns within coding regions, including biologically relevant motifs and synonymous codon bias. The pretrained model serves as a foundation for downstream tasks such as organism-specific codon optimization, sequence generation, and biological constraint-aware fine-tuning using reinforcement learning.
 
-We provide 3 notebooks. 
+The model is available at https://huggingface.co/naniltx/codonGPT 
+
+In this github repo, we provide 3 notebooks that demonstrate use of the model 
 
 - evaluation with HKG
 - evaluation with 100 sampled sequences
